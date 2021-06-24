@@ -1,2 +1,9 @@
 # fd-easyconnect-for-20.04
-将这几个文件（18.04的so文件）放在easyconnect的安装目录下，解决easyconnect的兼容性问题
+
+Easyconnect doesn't work in ubuntu20.04,the latest ubuntu version it supported is 18.04
+
+so we need replace some .so files under its working dir
+
+* download the so files by git clone
+
+* cp these .so files to the working directory of easyconnect.
