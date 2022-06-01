@@ -1,6 +1,6 @@
 # fd-easyconnect-for-20.04
 
-Easyconnect doesn't work in ubuntu20.04,the latest ubuntu version it supported is 18.04
+Easyconnect doesn't work in ubuntu 20.04, the latest ubuntu version supported is 18.04
 
 so we need replace some .so files under its working dir
 
